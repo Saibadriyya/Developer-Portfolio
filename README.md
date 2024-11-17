@@ -1,4 +1,4 @@
-## Responsive Portfolio Website ✨ --> [https://.github.io/Developers-Portifolio/](https://velagashanmukh.github.io/Data-Analyst-Portfolio/)
+## Responsive Portfolio Website ✨ --> [https://saibadriyya.github.io/Developer-Portfolio/)
 
 Responsive Portfolio Website Using HTML, CSS and JavaScript, with a beautiful user interface. 
 Website contains: 
